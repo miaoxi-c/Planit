@@ -214,8 +214,8 @@ assignments = {
       "title": "Homework 8 (Written)",
       "course": "CS 188",
       "dueDate": "2022-11-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419636/assignments/2393880/submissions/146556908",
+      "submitted": true
     },
     {
       "title": "Homework 9 (Electronic)",
