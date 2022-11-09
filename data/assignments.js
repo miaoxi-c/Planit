@@ -230,6 +230,13 @@ assignments = {
       "dueDate": "2022-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
+    },
+    {
+      "title": "[Optional] Project 5 Cheatsheet",
+      "course": "CS 188",
+      "dueDate": "2022-12-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2424137/submissions/new",
+      "submitted": false
     }
   ],
   "Data 101": [
