@@ -307,7 +307,7 @@ assignments = {
       "title": "Project 4 [CHECKPOINT]",
       "course": "Data 101",
       "dueDate": "2022-11-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/421137/assignments/2401854/submissions/147607093",
+      "link": "https://www.gradescope.com/courses/421137/assignments/2401854/submissions/147610383",
       "submitted": true
     },
     {
