@@ -220,14 +220,14 @@ assignments = {
     {
       "title": "Homework 9 (Electronic)",
       "course": "CS 188",
-      "dueDate": "2022-11-16T23:59:00",
+      "dueDate": "2022-12-01T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2413098/submissions/148594792",
       "submitted": true
     },
     {
       "title": "Homework 9 (Written)",
       "course": "CS 188",
-      "dueDate": "2022-11-16T23:59:00",
+      "dueDate": "2022-12-01T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2413103/submissions/149255042",
       "submitted": true
     },
@@ -299,7 +299,7 @@ assignments = {
     {
       "title": "Project 4 [FINAL]",
       "course": "Data 101",
-      "dueDate": "2022-11-18T23:59:00",
+      "dueDate": "2022-11-21T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2392143/submissions/148885008",
       "submitted": true
     },
@@ -313,7 +313,7 @@ assignments = {
     {
       "title": "Multivitamin 5",
       "course": "Data 101",
-      "dueDate": "2022-11-18T23:59:00",
+      "dueDate": "2022-11-21T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2404589/submissions/148885644",
       "submitted": true
     }
