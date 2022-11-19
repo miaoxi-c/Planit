@@ -299,7 +299,7 @@ assignments = {
     {
       "title": "Project 4 [FINAL]",
       "course": "Data 101",
-      "dueDate": "2022-11-21T23:59:00",
+      "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2392143/submissions/148885008",
       "submitted": true
     },
@@ -313,7 +313,7 @@ assignments = {
     {
       "title": "Multivitamin 5",
       "course": "Data 101",
-      "dueDate": "2022-11-21T23:59:00",
+      "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2404589/submissions/148885644",
       "submitted": true
     }
