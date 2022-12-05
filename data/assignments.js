@@ -244,6 +244,69 @@ assignments = {
       "dueDate": "2022-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2424137/submissions/150778529",
       "submitted": true
+    },
+    {
+      "title": "[Ungraded] HW1 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480375/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW2 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480376/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW3 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480377/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW4 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480378/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW5 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480379/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW6 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480380/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW7 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480381/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW8 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480382/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] HW9 Practice Copy",
+      "course": "CS 188",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480383/submissions/new",
+      "submitted": false
     }
   ],
   "Data 101": [
