@@ -312,8 +312,8 @@ assignments = {
       "title": "Course Evaluations",
       "course": "CS 188",
       "dueDate": "2022-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419636/assignments/2480395/submissions/153658826",
+      "submitted": true
     },
     {
       "title": "[Ungraded] Homework 10 (Electronic)",
