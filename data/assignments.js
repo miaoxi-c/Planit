@@ -425,8 +425,8 @@ assignments = {
     {
       "title": "Multivitamin 5 [PRACTICE]",
       "course": "Data 101",
-      "dueDate": "2022-12-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/421137",
+      "dueDate": "2022-12-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/421137/assignments/2488375/submissions/new",
       "submitted": false
     }
   ]
