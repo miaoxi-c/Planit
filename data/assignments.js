@@ -374,7 +374,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Project 4 [FINAL]",
+      "title": "Project 4",
       "course": "Data 101",
       "dueDate": "2022-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2392143/submissions/148885008",
@@ -427,6 +427,13 @@ assignments = {
       "course": "Data 101",
       "dueDate": "2022-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2488375/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Grade",
+      "course": "Data 101",
+      "dueDate": "2022-12-16T17:00:00",
+      "link": "https://www.gradescope.com/courses/421137",
       "submitted": false
     }
   ]
