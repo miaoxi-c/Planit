@@ -321,6 +321,13 @@ assignments = {
       "dueDate": "2022-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2482267/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "[Ungraded] Demo Online Final Exam",
+      "course": "CS 188",
+      "dueDate": "2022-12-17T16:00:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2507549/submissions/new",
+      "submitted": false
     }
   ],
   "Data 101": [
