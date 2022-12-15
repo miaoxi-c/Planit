@@ -328,6 +328,13 @@ assignments = {
       "dueDate": "2022-12-17T16:00:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2507549/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Online Final Exam",
+      "course": "CS 188",
+      "dueDate": "2022-12-15T14:40:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2511637/submissions/new",
+      "submitted": false
     }
   ],
   "Data 101": [
@@ -441,6 +448,13 @@ assignments = {
       "course": "Data 101",
       "dueDate": "2022-12-16T17:00:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2502002/submissions/153880005",
+      "submitted": true
+    },
+    {
+      "title": "FINAL EXAM",
+      "course": "Data 101",
+      "dueDate": "2022-12-15T14:30:00",
+      "link": "https://www.gradescope.com/courses/421137/assignments/2504946/submissions/154559841",
       "submitted": true
     }
   ]
