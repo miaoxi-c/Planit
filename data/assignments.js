@@ -426,15 +426,15 @@ assignments = {
       "title": "Multivitamin 4 [PRACTICE]",
       "course": "Data 101",
       "dueDate": "2022-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/421137/assignments/2488373/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/421137/assignments/2488373/submissions/154499519",
+      "submitted": true
     },
     {
       "title": "Multivitamin 5 [PRACTICE]",
       "course": "Data 101",
       "dueDate": "2022-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/421137/assignments/2488375/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/421137/assignments/2488375/submissions/154500411",
+      "submitted": true
     },
     {
       "title": "Final Grade",
