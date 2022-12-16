@@ -446,7 +446,7 @@ assignments = {
     {
       "title": "Final Grade",
       "course": "Data 101",
-      "dueDate": "2022-12-16T17:00:00",
+      "dueDate": "2022-12-18T23:59:00",
       "link": "https://www.gradescope.com/courses/421137/assignments/2502002/submissions/153880005",
       "submitted": true
     },
