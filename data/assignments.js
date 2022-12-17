@@ -46,7 +46,7 @@ assignments = {
       "title": "[Optional] Project 3 Cheatsheet",
       "course": "CS 188",
       "dueDate": "2022-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2215910/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
