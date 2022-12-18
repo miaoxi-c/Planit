@@ -164,7 +164,7 @@ assignments = {
     {
       "title": "Participation (Extra Credit)",
       "course": "CS 188",
-      "dueDate": "2022-12-15T00:00:00",
+      "dueDate": "2022-12-31T00:00:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2356700/submissions/149324644",
       "submitted": true
     },
