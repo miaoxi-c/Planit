@@ -29,24 +29,24 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "[Optional] Project 1 Cheatsheet",
+      "title": "[Ungraded] Project 1 Cheatsheet",
       "course": "CS 188",
       "dueDate": "2022-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2215872/submissions/131949093",
       "submitted": true
     },
     {
-      "title": "[Optional] Project 2 Cheatsheet",
+      "title": "[Ungraded] Project 2 Cheatsheet",
       "course": "CS 188",
       "dueDate": "2022-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2215896/submissions/134569291",
       "submitted": true
     },
     {
-      "title": "[Optional] Project 3 Cheatsheet",
+      "title": "[Ungraded] Project 3 Cheatsheet",
       "course": "CS 188",
-      "dueDate": "2022-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419636/assignments/2215910/submissions/new",
       "submitted": false
     },
     {
@@ -197,9 +197,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "[Optional] Project 4 Cheatsheet",
+      "title": "[Ungraded] Project 4 Cheatsheet",
       "course": "CS 188",
-      "dueDate": "2022-12-16T23:59:00",
+      "dueDate": "2022-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2380803/submissions/143875510",
       "submitted": true
     },
@@ -239,9 +239,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "[Optional] Project 5 Cheatsheet",
+      "title": "[Ungraded] Project 5 Cheatsheet",
       "course": "CS 188",
-      "dueDate": "2022-12-16T23:59:00",
+      "dueDate": "2022-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/419636/assignments/2424137/submissions/150778529",
       "submitted": true
     },
