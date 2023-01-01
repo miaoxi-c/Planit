@@ -46,7 +46,7 @@ assignments = {
       "title": "[Ungraded] Project 3 Cheatsheet",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2215910/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
@@ -249,63 +249,63 @@ assignments = {
       "title": "[Ungraded] HW1 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480375/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW2 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480376/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW3 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480377/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW4 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480378/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW5 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480379/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW6 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480380/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW7 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480381/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW8 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480382/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
       "title": "[Ungraded] HW9 Practice Copy",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2480383/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
@@ -319,7 +319,7 @@ assignments = {
       "title": "[Ungraded] Homework 10 (Electronic)",
       "course": "CS 188",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2482267/submissions/new",
+      "link": "https://www.gradescope.com/courses/419636",
       "submitted": false
     },
     {
